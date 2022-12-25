@@ -1,4 +1,4 @@
-# GeradoR de cpf válido
+# Gerador de cpf válido
 
 A página gera um cpf novo a cada reload.
 
